@@ -1,4 +1,1 @@
-partition.system.verified.hash_alg     u:object_r:verity_status_prop:s0 exact string
-partition.system_ext.verified.hash_alg u:object_r:verity_status_prop:s0 exact string
-partition.product.verified.hash_alg    u:object_r:verity_status_prop:s0 exact string
-partition.vendor.verified.hash_alg     u:object_r:verity_status_prop:s0 exact string
+adfadfasfsdfasf
